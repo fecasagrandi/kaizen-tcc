@@ -29,7 +29,7 @@ O sistema é desenvolvido utilizando as seguintes tecnologias:
 
 ### Requisitos:
 - **Node.js 16+**
-- **MySQL** (ou qualquer outro banco de dados compatível com Prisma)
+- **MySQL** 
 - **Prisma CLI**
 
 ### Passos para instalação:
