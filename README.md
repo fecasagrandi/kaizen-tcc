@@ -37,4 +37,4 @@ O sistema é desenvolvido utilizando as seguintes tecnologias:
 1. **Clonar o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/kaizen-tcc.git
+   git clone https://github.com/fecasagrandi/kaizen-tcc.git
